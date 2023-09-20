@@ -1,10 +1,2 @@
 
-<descriptors>
-    <descriptor>
-        <repositoryId>design</repositoryId>
-        <path>DESIGN/rules/123Example 1 - Bank Rating</path>
-        <projectName>123Example 1 - Bank Rating</projectName>
-        <branch>main</branch>
-        <projectVersion>3f96433933d0932958af119603e3893486cd5a9d</projectVersion>
-    </descriptor>
-</descriptors>
+<descriptors/>
